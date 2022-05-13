@@ -1,4 +1,4 @@
-import React, {useContext, useState } from "react";
+import React, { useContext, useState } from "react";
 import { View, Text, useWindowDimensions } from "react-native";
 import { SceneMap, TabView } from "react-native-tab-view";
 import { NewsContext } from "../API/Context";
